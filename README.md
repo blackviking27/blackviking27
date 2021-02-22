@@ -2,7 +2,7 @@
 
 ## My name is Abhishek aka blacViking
 
-I really love _web development, hacking and clicking photos_.
+:smile: I really love _web development, hacking and clicking photos_.
 <br>
 🔭 I’m currently working on Multiple web development projects
 <br>
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
