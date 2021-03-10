@@ -8,7 +8,7 @@
 <br>
 :computer: I really like playing CTFs, web challenges are my favorite
 <br>
-⚡ Fun fact: Don't be dumb on inernet
+⚡ Fun fact: Don't be dumb on internet
 
 <!--
 **blackviking27/blackviking27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
