@@ -1,19 +1,17 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-</head>
+<h1 align="center"> Hi there 👋 </h1>
 
-# Hi there 👋
+<h3 align="center"> My name is Abhishek, a front-end developer who loves hacking </h3>
 
-## My name is Abhishek aka blacViking
 
-:smile: I really love _web development, hacking and clicking photos_.
-<br>
-🔭 I’m currently working on Multiple web development projects
-<br>
-:computer: I really like playing CTFs, web challenges are my favorite
-<br>
-⚡ Fun fact: Don't be dumb on internet
+### Somethings to might notice about me
 
+I really love **web development and hacking**. :smile:
+
+Currently working on Multiple web development projects 🔭
+
+Really like playing CTFs, web challenges are my favorite :computer:
+
+_Fun fact: Don't be dumb on internet⚡_
 <!--
 **blackviking27/blackviking27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +31,29 @@ Here are some ideas to get you started:
 2. [Password Check](https://passcheck.netlify.app/)
 3. [CryptoMon](https://addons.mozilla.org/en-US/firefox/addon/crypto-monitor/)
 4. [Hashnode Blog](https://blacviking.hashnode.dev/)
+
+### Languages and Tools
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50">
+</span>
 
 ### Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackviking27&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
