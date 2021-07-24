@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 2. [Password Check](https://passcheck.netlify.app/)
 3. [CryptoMon](https://addons.mozilla.org/en-US/firefox/addon/crypto-monitor/)
 4. [Hashnode Blog](https://blacviking.hashnode.dev/)
+5. [Hulu Clone](https://hulu-clone-build.vercel.app/)
 
 ### Languages and Tools
 <span>
