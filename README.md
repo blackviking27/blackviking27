@@ -3,7 +3,7 @@
 <h3 align="center"> My name is Abhishek, a front-end developer who loves hacking </h3>
 
 
-### Somethings to might notice about me
+### Somethings you might notice about me
 
 I really love **web development and hacking**. :smile:
 
