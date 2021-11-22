@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 3. [CryptoMon](https://addons.mozilla.org/en-US/firefox/addon/crypto-monitor/)
 4. [Hashnode Blog](https://blacviking.hashnode.dev/)
 5. [Hulu Clone](https://hulu-clone-build.vercel.app/)
+6. [Amazon Clone](https://amazon-clone-nine-tan.vercel.app/)
+7. [Airbnb Clone](https://airbnb-clone-one-rho-40.vercel.app/)
 
 ### Languages and Tools
 <span>
