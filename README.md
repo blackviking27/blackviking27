@@ -11,7 +11,6 @@ Currently working on Multiple web development projects 🔭
 
 Really like playing CTFs, web challenges are my favorite :computer:
 
-_Fun fact: Don't be dumb on internet⚡_
 <!--
 **blackviking27/blackviking27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
