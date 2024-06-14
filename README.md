@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<h3 align="center"> My name is Abhishek, a front-end developer who loves hacking </h3>
+<h3 align="center"> My name is Abhishek, Software Engineer constantly fighting the irresistible itch to kick off a shiny new project daily. </h3>
 
 
 ### Somethings you might notice about me
