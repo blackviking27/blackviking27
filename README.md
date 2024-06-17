@@ -5,11 +5,9 @@
 
 ### Somethings you might notice about me
 
-I really love **web development and hacking**. :smile:
+I really love **web development and exploring tech**. :smile:
 
 Currently working on Multiple web development projects 🔭
-
-Really like playing CTFs, web challenges are my favorite :computer:
 
 <!--
 **blackviking27/blackviking27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
